@@ -1,0 +1,27 @@
+add nyan cat that follows page as you scrolling
+
+color scheme
+#2F4454
+#2E151B
+#DA7B93
+#376E6F
+#1C3334
+DATA VISUALIZER
+the average person.com is
+take survey many questions, store data absed on results submitted 
+Questions:
+    height
+    weight
+    eye color
+    marital status
+    kill count
+    dickl sizes
+    tit sizes
+    bellybutton(innie/outie)
+    skin tone
+    fav color
+    hair color
+
+
+
+
